@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+httpx
+bs4
+requests
+textblob
+playwright
+feedparser
+
+nltk
+# Proxy utilities
+appdirs
+# Proxy utilities
+http-proxy  
