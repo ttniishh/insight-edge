@@ -10,5 +10,5 @@ feedparser
 nltk
 # Proxy utilities
 appdirs
-# Proxy utilities
-http-proxy  
+six>=1.17.0
+
