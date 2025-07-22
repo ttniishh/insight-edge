@@ -6,7 +6,7 @@ st.set_page_config(page_title="📈 Stock Sentiment Dashboard", layout="wide")
 st.title("📊 Stock Market News Sentiment")
 st.markdown("Select a stock or keyword to fetch recent financial news and analyze sentiment.")
 
-API_BASE = "http://localhost:8000"
+API_BASE = "https://insight-edge-1.onrender.com/"
 
 # Fetch keyword suggestions from backend
 @st.cache_data(ttl=300)
