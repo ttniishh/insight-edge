@@ -6,6 +6,7 @@ requests
 textblob
 playwright
 feedparser
+plotly
 
 nltk
 # Proxy utilities
